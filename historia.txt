@@ -4,3 +4,4 @@ Jonathan Sanchez
 Ahora trabaja en P3
 Nueva informacion
 Se agrego informacion a la beta
+Cambio numero 2 en beta
