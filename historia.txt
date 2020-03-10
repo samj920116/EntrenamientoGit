@@ -3,3 +3,4 @@ Nueva dos lineas de codigo
 Jonathan Sanchez
 Ahora trabaja en P3
 Nueva informacion
+Se agrego informacion a la beta
