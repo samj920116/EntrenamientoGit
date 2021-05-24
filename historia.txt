@@ -6,4 +6,4 @@ Nueva informacion
 Se agrego informacion a la beta
 Cambio numero 2 en beta
 Cambio realizado para verificar lllave ssh
-Cambios patra generar un pull request
+Cambios para generar un pull request
